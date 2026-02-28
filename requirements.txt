@@ -1,0 +1,9 @@
+streamlit
+groq
+langchain
+langchain-core
+langsmith
+langchain-groq
+python-dotenv
+sqlite-utils
+requests
